@@ -2,17 +2,26 @@ The Resume Matching Tool combines LangChain's SentenceTransformers and OpenAI to
 
 **Key Features:**
 
+
 Effortless Screening: Quickly analyze resumes for relevance.
+
 Smart Algorithm: Assigns similarity scores for each candidate.
+
 Concise Summaries: Summarizes key details for efficient review.
 
 **Technology Stack:**
 
+
 LangChain's SentenceTransformers
+
 SentenceTransformerEmbeddings
+
 OpenAI
+
 Pinecone
+
 Streamlit
+
 Langchain's load_summarize_chain
 
 **How to Use:**
@@ -34,4 +43,5 @@ Review top matches with scores and concise summaries.
 **Benefits:**
 
 Privacy: Operates locally.
+
 Time-Saver: Speeds up the screening process.
