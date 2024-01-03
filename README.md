@@ -18,11 +18,17 @@ Langchain's load_summarize_chain
 **How to Use:**
 
 Clone the repo, follow README instructions.
+
 Go to app.pinecone.io, create a new project and then a new index, generate a new API key.
+
 Replace your API key,index name and environment name with the ones in **app.py** file.
+
 generate **OPENAI_API_KEY** and write it in the **.env** file
+
 simple run the app using **streamlit run app.py**
+
 Input job description, set ideal resumes, upload resumes.
+
 Review top matches with scores and concise summaries.
 
 **Benefits:**
